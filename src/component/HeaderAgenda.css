@@ -1,0 +1,130 @@
+.header-docs-notif {
+    background: linear-gradient(180deg, rgba(201, 137, 221, 0.9) 0%, rgba(132.53, 202.15, 249.97, 0.9) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 99px;
+    position: relative;
+    width: 1511px;
+    }
+    .header-docs-notif .help {
+    background-color: #ffffff;
+    border-radius: 17.5px;
+    height: 35px;
+    left: 1173px;
+    position: absolute;
+    top: 32px;
+    width: 35px;
+    }
+    .header-docs-notif .img {
+    height: 23px;
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: 23px;
+    }
+    .header-docs-notif .acc-btn {
+    height: 23px;
+    left: 1238px;
+    position: absolute;
+    top: 38px;
+    width: 155px;
+    }
+    .header-docs-notif .text-wrapper {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    }
+    .header-docs-notif .person-circle {
+    height: 23px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 23px;
+    }
+    .header-docs-notif .vector {
+    height: 4px;
+    left: 148px;
+    position: absolute;
+    top: 10px;
+    width: 7px;
+    }
+    .header-docs-notif .overlapdocs {
+    border-radius: 17.5px;
+    height: 35px;
+    left: 1041px;
+    position: absolute;
+    top: 32px;
+    width: 35px;
+    }
+    .header-docs-notif .docs {
+    background-color: #ffffff;
+    border-radius: 17.5px;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 35px;
+    }
+    .header-docs-notif .ellipse {
+    background-color: var(--error);
+    border-radius: 5.5px;
+    height: 11px;
+    left: 24px;
+    position: absolute;
+    top: 0; 
+    width: 11px;
+    }
+    .header-docs-notif .agenda {
+    background-color:  var(--purple);
+    border-radius: 17.5px;
+    height: 35px;
+    left: 976px;
+    position: absolute;
+    top: 32px;
+    width: 35px;
+    }
+    .header-docs-notif .notif_group {
+    border-radius: 17.5px;
+    height: 35px;
+    left: 1108px;
+    position: absolute;
+    top: 32px;
+    width: 35px;
+    }
+    .header-docs-notif .notif {
+    background-color: #ffffff;
+    border-radius: 17.5px;
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 35px;
+    }
+    .header-docs-notif .logo {
+        height: 39px;
+        left: 48px;
+        position: absolute;
+        top: 29px;
+        width: 76px;
+        }
+        .header-docs-notif .text-wrapper-2 {
+        color: #ffffff;
+        font-family: "Avenir Next LT Pro-Demi", Helvetica;
+        font-size: 32.2px;
+        font-weight: 400;
+        height: 39px;
+        left: 0;
+        letter-spacing: 0;
+        line-height: normal;
+        position: absolute;
+        top: 0;
+        width: 76px;
+        }
+    

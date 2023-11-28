@@ -1,0 +1,235 @@
+.pagelo {
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1511px;
+    }
+    .pagelo .divlo {
+    background-color: #fafafa;
+    height: 1021px;
+    position: relative;
+    width: 1511px;
+    }
+    .pagelo .overlaplo {
+    height: 801px;
+    left: 0;
+    position: absolute;
+    top: 99px;
+    width: 1189px;
+    }
+    .pagelo .grouplo {
+    height: 571px;
+    left: 915px;
+    position: absolute;
+    top: 223px;
+    width: 274px;
+    }
+    .pagelo .overlap-grouplo {
+    height: 571px;
+    position: relative;
+    }
+    .pagelo .ellipselo {
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: 507px;
+    width: 274px;
+    }
+    .pagelo .funny-businessmanlo {
+    height: 562px;
+    left: 28px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 218px;
+    }
+    .pagelo .assetlo {
+    height: 801px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 799px;
+    }
+    .pagelo .loginlo {
+    height: 685px;
+    left: 445px;
+    position: absolute;
+    top: 58px;
+    width: 552px;
+    }
+    .pagelo .overlap-2lo {
+    background-color: #ffffff;
+    border-radius: 15px;
+    height: 685px;
+    position: relative;
+    width: 550px;
+    }
+    .pagelo .titrelo {
+    color: #303030;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 27px;
+    left: 188px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    }
+    .pagelo .group-2lo {
+    height: 67px;
+    left: 26px;
+    position: absolute;
+    top: 111px;
+    width: 244px;
+    }
+    .pagelo .titre-wrapperlo {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #aaaaaa33;
+    border-radius: 8px;
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 240px;
+    }
+    .pagelo .text-wrapperlo {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 100%; 
+    border: none; 
+    outline: none;
+    padding: 0; 
+    margin: 0; 
+    }
+    .pagelo .titre-2lo {
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    }
+    .pagelo .group-3lo {
+    height: 67px;
+    left: 285px;
+    position: absolute;
+    top: 111px;
+    width: 244px;
+    }
+    .pagelo .group-4lo {
+    height: 67px;
+    left: 26px;
+    position: absolute;
+    top: 262px;
+    width: 503px;
+    }
+    .pagelo .div-wrapperlo {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #aaaaaa33;
+    border-radius: 8px;
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 499px;
+    }
+    .pagelo .group-5lo {
+    height: 67px;
+    left: 26px;
+    position: absolute;
+    top: 349px;
+    width: 503px;
+    }
+    .pagelo .overlap-wrapperlo {
+    height: 44px;
+    left: 26px;
+    position: absolute;
+    top: 198px;
+    width: 501px;
+    }
+    .pagelo .overlap-3lo {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #aaaaaa33;
+    border-radius: 8px;
+    height: 44px;
+    position: relative;
+    width: 499px;
+    }
+    .pagelo .vectorlo {
+    height: 6px;
+    left: 462px;
+    position: absolute;
+    top: 18px;
+    width: 11px;
+    }
+    .pagelo .group-6lo {
+    height: 137px;
+    left: 26px;
+    position: absolute;
+    top: 436px;
+    width: 503px;
+    }
+    .pagelo .overlap-4lo {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #aaaaaa33;
+    border-radius: 8px;
+    height: 114px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 499px;
+    }
+    .pagelo .btn-envlo {
+    align-items: center;
+    background-color: #6dc0f9;
+    border-radius: 5px;
+    display: flex;
+    gap: 10px;
+    height: 44px;
+    justify-content: center;
+    left: 26px;
+    padding: 13px 23px;
+    position: absolute;
+    top: 599px;
+    width: 459px;
+    border: none;
+    cursor: pointer;
+    width: 91%; 
+    }
+    .pagelo .text-wrapper-2lo {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    width: 100%; 
+    }
+    .pagelo .arrow-forwardlo {
+    height: 16px;
+    position: relative;
+    width: 16px;
+    }
+    

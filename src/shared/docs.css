@@ -1,0 +1,599 @@
+.docs {
+    height: 448px;
+    position: relative;
+    width: 1345px;
+}
+
+.docs .text-wrapperer {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 58px;
+}
+
+.docs .divv {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 141px;
+}
+
+.docs .text-wrapper2 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 226px;
+}
+
+.docs .text-wrapper3 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 311px;
+}
+
+.docs .text-wrapper4 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 396px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper5 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 338px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 58px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper6 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 338px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper7 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 338px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 226px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper8 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 338px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 311px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper9 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 338px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 396px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper10 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 58px;
+}
+
+.docs .text-wrapper11 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+}
+
+.docs .text-wrapper12 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 226px;
+}
+
+.docs .text-wrapper13 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 311px;
+}
+
+.docs .text-wrapper14 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 396px;
+}
+
+.docs .text-wrapper15 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 707px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 58px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper16 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 707px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper17 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 707px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 226px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper18 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 707px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 311px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper19 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 707px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 396px;
+    white-space: nowrap;
+}
+
+.docs .text-wrapper20 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 932px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 58px;
+}
+
+.docs .text-wrapper21 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 932px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+}
+
+.docs .text-wrapper22 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 932px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 226px;
+}
+
+.docs .text-wrapper23 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 932px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 311px;
+}
+
+.docs .text-wrapper24 {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 932px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 396px;
+}
+
+.docs .text-wrapper25 {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+}
+
+.docs .text-wrapper26 {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 700px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+}
+
+.docs .text-wrapper27 {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 530px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+}
+
+.docs .text-wrapper28 {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 332px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+}
+
+.docs .text-wrapper29 {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 931px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+}
+
+.docs .text-wrapper30 {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 1148px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+}
+
+.docs .bi-file-earmark {
+    height: 23px;
+    left: 1165px;
+    position: absolute;
+    top: 57px;
+    width: 23px;
+}
+
+.docs .imgg {
+    height: 23px;
+    left: 1165px;
+    position: absolute;
+    top: 140px;
+    width: 23px;
+}
+
+.docs .bi-file-earmark-2 {
+    height: 23px;
+    left: 1165px;
+    position: absolute;
+    top: 225px;
+    width: 23px;
+}
+
+.docs .bi-file-earmark-3 {
+    height: 23px;
+    left: 1165px;
+    position: absolute;
+    top: 310px;
+    width: 23px;
+}
+
+.docs .bi-file-earmark-4 {
+    height: 23px;
+    left: 1165px;
+    position: absolute;
+    top: 395px;
+    width: 23px;
+}
+
+.docs .line-1 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 1345px;
+}
+
+.docs .line-2 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 109px;
+    width: 1345px;
+}
+
+.docs .line-3 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 192px;
+    width: 1345px;
+}
+
+.docs .line-4 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 277px;
+    width: 1345px;
+}
+
+.docs .line-5 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 362px;
+    width: 1345px;
+}
+
+.docs .line-6 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 447px;
+    width: 1345px;
+}
+
+.docs .archive-outline {
+    height: 23px;
+    left: 1273px;
+    position: absolute;
+    top: 57px;
+    width: 23px;
+}
+
+.docs .archive-outline-2 {
+    height: 23px;
+    left: 1273px;
+    position: absolute;
+    top: 140px;
+    width: 23px;
+}
+
+.docs .archive-outline-3 {
+    height: 23px;
+    left: 1273px;
+    position: absolute;
+    top: 225px;
+    width: 23px;
+}
+
+.docs .archive-outline-4 {
+    height: 23px;
+    left: 1273px;
+    position: absolute;
+    top: 310px;
+    width: 23px;
+}
+
+.docs .archive-outline-5 {
+    height: 23px;
+    left: 1273px;
+    position: absolute;
+    top: 395px;
+    width: 23px;
+}
+
+.docs .checkbox-1 {
+  
+    height: 17px;
+    border: 0.5px solid;
+    border-color: #303030;
+    border-radius: 4px;
+    height: 17px;
+    left: 14px;
+    position: absolute;
+    top: 56px;
+    width: 17px;
+}
+
+.docs .checkbox-2 {
+    border: 0.5px solid;
+    border-color: #303030;
+    border-radius: 4px;
+    height: 17px;
+    left: 14px;
+    position: absolute;
+    top: 138px;
+    width: 17px;
+}
+
+.docs .checkbox-3 {
+    border: 0.5px solid;
+    border-color: #303030;
+    border-radius: 4px;
+    height: 17px;
+    left: 14px;
+    position: absolute;
+    top: 225px;
+    width: 17px;
+}
+
+.docs .checkbox-4 {
+    border: 0.5px solid;
+    border-color: #303030;
+    border-radius: 4px;
+    height: 17px;
+    left: 14px;
+    position: absolute;
+    top: 310px;
+    width: 17px;
+}
+
+.docs .checkbox-5 {
+    border: 0.5px solid;
+    border-color: #303030;
+    border-radius: 4px;
+    height: 17px;
+    left: 14px;
+    position: absolute;
+    top: 395px;
+    width: 17px;
+}

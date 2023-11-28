@@ -1,0 +1,67 @@
+
+
+.page .add-doc {
+    align-items: center;
+    background-color: #c989dd;
+    border-radius: 10px;
+    box-shadow: 0px 0px 14px #c989dd80;
+    display: flex;
+    gap: 5px;
+    height: 44px;
+    justify-content: center;
+    left: 1131px;
+    padding: 13px 23px;
+    position: absolute;
+    top: 156px;
+    width: 262px;
+}
+
+.page .group {
+    background-color: #aaaaaa12;
+    border-radius: 10px;
+    height: 58px;
+    left: 403px;
+    position: absolute;
+    top: 249px;
+    width: 661px;
+}
+
+
+
+.page .group-2 {
+    background-color: #ffffff;
+    height: 58px;
+    left: 0;
+    position: absolute;
+    top: 159px;
+    width: 932px;
+}
+
+
+.page .docs {
+    height: 448px;
+    left: 48px;
+    position: absolute;
+    top: 408px;
+    width: 1345px;
+}
+
+
+.page .filter {
+    height: 58px;
+    left: 0;
+    position: absolute;
+    top: 322px;
+    width: 1440px;
+}
+
+
+.page .main-footer {
+    background-color: #ffffff;
+    height: 721px;
+    left: 0;
+    position: absolute;
+    top: 901px;
+    width: 1440px;
+}
+

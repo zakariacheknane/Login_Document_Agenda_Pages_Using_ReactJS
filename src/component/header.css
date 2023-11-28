@@ -1,0 +1,96 @@
+.header {
+    background: linear-gradient(180deg, rgba(201, 137, 221, 0.9) 0%, rgba(132.53, 202.15, 249.97, 0.9) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 99px;
+    position: relative;
+    width: 1511px;
+    }
+    .header .btn {
+    all: unset;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-sizing: border-box;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 1072px;
+    padding: 13px 23px;
+    position: absolute;
+    top: 28px;
+    }
+    .header .text-wrapper {
+    color: var(--lightp);
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    }
+    .header .connecter {
+    height: 23px;
+    left: 1281px;
+    position: absolute;
+    top: 38px;
+    width: 112px;
+    }
+    .header .div {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 27px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    }
+    .header .person-circle {
+    height: 23px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 23px;
+    }
+    .header .help {
+    background-color: #ffffff;
+    border-radius: 17.5px;
+    height: 35px;
+    left: 1210px;
+    position: absolute;
+    top: 32px;
+    width: 35px;
+    }
+    .header .help-circle-outline {
+    height: 23px;
+    left: 6px;
+    position: absolute;
+    top: 6px;
+    width: 23px;
+    }
+    .header .overlap-group {
+    height: 39px;
+    left: 48px;
+    position: absolute;
+    top: 29px;
+    width: 76px;
+    }
+    .header .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 32.2px;
+    font-weight: 400;
+    height: 39px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 76px;
+    }

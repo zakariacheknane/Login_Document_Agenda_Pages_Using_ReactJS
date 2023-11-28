@@ -1,0 +1,195 @@
+.filter {
+    height: 58px;
+    width: 1440px;
+}
+
+.filter .navbarr {
+    height: 58px;
+    position: relative;
+}
+
+.filter .groups {
+    background-color: #f8f8f8;
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.filter .vector7 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 56px;
+    width: 1440px;
+}
+
+.filter .imgs {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.filter .lines {
+    height: 48px;
+    left: 256px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+}
+
+.filter .text-wrappers {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 552px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+}
+
+.filter .divs {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 303px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+}
+
+.filter .text-wrappers-2 {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 1190px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+}
+
+.filter .lines-2 {
+    height: 48px;
+    left: 471px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+}
+
+.filter .lines-3 {
+    height: 48px;
+    left: 686px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+}
+
+.filter .lines-4 {
+    height: 48px;
+    left: 901px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+}
+
+.filter .lines-5 {
+    height: 48px;
+    left: 1116px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+}
+
+.filter .lines-6 {
+    height: 48px;
+    left: 1331px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+}
+
+.filter .components {
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    height: 34px;
+    left: 48px;
+    position: absolute;
+    top: 14px;
+    width: 134px;
+}
+
+.filter .text-wrappers-3 {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+}
+
+.filter .imgs-2 {
+    height: 15px;
+    left: 19px;
+    position: absolute;
+    top: 9px;
+    width: 15px;
+}
+
+.filter .text-wrappers-4 {
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 715px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+}
+
+.filter .vectors-2 {
+    height: 6px;
+    left: 862px;
+    position: absolute;
+    top: 26px;
+    width: 11px;
+}
+
+.filter .du-au {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 938px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+}
+
+.filter .vectors-3 {
+    height: 6px;
+    left: 1088px;
+    position: absolute;
+    top: 26px;
+    width: 10px;
+}

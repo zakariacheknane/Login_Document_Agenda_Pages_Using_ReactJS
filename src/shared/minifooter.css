@@ -1,0 +1,89 @@
+.mini-footer {
+    background-color: #ffffff;
+    height: 71px;
+    width: 1440px;
+}
+
+.mini-footer .overlap-groupf {
+    height: 45px;
+    left: 48px;
+    position: relative;
+    top: 12px;
+    width: 1344px;
+}
+
+.mini-footer .groupf {
+    height: 37px;
+    left: 0;
+    position: absolute;
+    top: 8px;
+    width: 1344px;
+}
+
+.mini-footer .div-wrapperf {
+    height: 14px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 216px;
+}
+
+.mini-footer .text-wrapperf {
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+}
+
+.mini-footer .twitter {
+    height: 32px;
+    left: 1312px;
+    position: absolute;
+    top: 0;
+    width: 32px;
+}
+
+.mini-footer .insta {
+    height: 32px;
+    left: 1266px;
+    position: absolute;
+    top: 0;
+    width: 32px;
+}
+
+.mini-footer .logo-linkedin {
+    height: 32px;
+    left: 1220px;
+    position: absolute;
+    top: 0;
+    width: 32px;
+}
+
+.mini-footer .logo-facebook {
+    height: 32px;
+    left: 1174px;
+    position: absolute;
+    top: 0;
+    width: 32px;
+}
+
+.mini-footer .divf {
+    color: #9e58ff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 27.2px;
+    font-weight: 400;
+    height: 33px;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 64px;
+}

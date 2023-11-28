@@ -1,0 +1,1102 @@
+.pageag {
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1511px;
+}
+
+.pageag .overlap-wrapperag {
+    background-color: #fafafa;
+    height:812px;
+    width: 1511px;
+    top: 108px;
+}
+
+.pageag .overlapag {
+    height: 971px;
+    position: relative;
+    top: 0px;
+}
+
+.pageag .overlap-groupag {
+    height: 971px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1511px;
+}
+
+.pageag .lineag {
+    height: 803px;
+    left: 380px;
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width: 1px;
+}
+
+
+
+
+.pageag .proche-rdv-procheag {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #fcb768;
+    border-radius: 6px;
+    box-shadow: 0px 0px 20px #0000001a;
+    height: 205px;
+    left: 48px;
+    position: absolute;
+    top: 69px;
+    width: 306px;
+}
+
+.pageag .overlap-group-2ag {
+    background-color: #fcb768;
+    border-radius: 6px 6px 0px 0px;
+    height: 46px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 306px;
+}
+
+.pageag .text-wrapper-5ag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 18px;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    width: 99px;
+}
+
+.pageag .text-wrapper-6ag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 18px;
+    left: 141px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 43px;
+}
+
+.pageag .time-outlineag {
+    height: 18px;
+    left: 121px;
+    position: absolute;
+    top: 15px;
+    width: 18px;
+}
+
+.pageag .maki-doctorag {
+    height: 22px;
+    left: 272px;
+    position: absolute;
+    top: 12px;
+    width: 22px;
+}
+
+.pageag .text-wrapper-7ag {
+    color: var(--black);
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 14px;
+    font-weight: 600;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 57px;
+}
+
+.pageag .pag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 100px;
+    width: 268px;
+    text-align: left;
+}
+
+.pageag .text-wrapper-8ag {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 76px;
+    white-space: nowrap;
+   
+}
+
+.pageag .frameag {
+    align-items: center;
+    background-color: var(--purple);
+    border-radius: 4px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 241px;
+    padding: 4px 10px 3px;
+    position: absolute;
+    top: 170px;
+}
+
+.pageag .titreag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.pageag .mes-RDVag {
+    color: #303030;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    height: 24px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+}
+
+.pageag .mon-agendaag {
+    color: #303030;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    height: 24px;
+    left: 413px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+}
+
+.pageag .overlap-4ag {
+     background-color: #fafafa;
+    height: 672px;
+    left: 413px;
+    position: absolute;
+    top: 69px;
+    width: 980px;
+    border: 0px solid;
+}
+
+.pageag .calendarag {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #e8e8e8;
+    border-radius: 10px;
+    height: 672px;
+    left: 40px;
+    position: absolute;
+    top: 0;
+    width: 940px;
+}
+
+.pageag .overlap-5ag {
+    height: 672px;
+    position: relative;
+    
+}
+
+.pageag .overlap-6ag {
+    height: 672px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 940px;
+}
+
+.pageag .line-2ag {
+    height: 672px;
+    left: 134px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.pageag .line-3ag {
+    height: 672px;
+    left: 268px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.pageag .line-4ag {
+    height: 672px;
+    left: 403px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.pageag .line-5ag {
+    height: 672px;
+    left: 537px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.pageag .line-6ag {
+    height: 672px;
+    left: 672px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.pageag .line-7ag {
+    height: 672px;
+    left: 806px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.pageag .line-8ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 101px;
+    width: 940px;
+}
+
+.pageag .line-9ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 139px;
+    width: 940px;
+}
+
+.pageag .line-10ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 177px;
+    width: 940px;
+}
+
+.pageag .line-11ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 215px;
+    width: 940px;
+}
+
+.pageag .line-12ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 253px;
+    width: 940px;
+}
+
+.pageag .line-13ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 291px;
+    width: 940px;
+}
+
+.pageag .line-14ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 329px;
+    width: 940px;
+}
+
+.pageag .line-15ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 367px;
+    width: 940px;
+}
+
+.pageag .line-16ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 405px;
+    width: 940px;
+}
+
+.pageag .line-17ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 443px;
+    width: 940px;
+}
+
+.pageag .line-18ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 481px;
+    width: 940px;
+}
+
+.pageag .line-19ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 520px;
+    width: 940px;
+}
+
+.pageag .line-20ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 558px;
+    width: 940px;
+}
+
+.pageag .line-21ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 596px;
+    width: 940px;
+}
+
+.pageag .line-22ag {
+    height: 1px;
+    left: 0;
+    position: absolute;
+    top: 634px;
+    width: 940px;
+}
+
+.pageag .group-2ag {
+    height: 35px;
+    left: 719px;
+    position: absolute;
+    top: 20px;
+    width: 44px;
+}
+
+.pageag .text-wrapper-9ag {
+    color: #868686;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-10ag {
+    color: #868686;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+}
+
+.pageag .group-3ag {
+    height: 35px;
+    left: 584px;
+    position: absolute;
+    top: 20px;
+    width: 44px;
+}
+
+.pageag .text-wrapper-11ag {
+    color: #868686;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.pageag .group-4ag {
+    height: 35px;
+    left: 316px;
+    position: absolute;
+    top: 20px;
+    width: 44px;
+}
+
+.pageag .text-wrapper-12ag {
+    color: #868686;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.pageag .group-5ag {
+    height: 34px;
+    left: 181px;
+    position: absolute;
+    top: 21px;
+    width: 44px;
+}
+
+.pageag .text-wrapper-13ag {
+    color: #868686;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+}
+
+.pageag .group-6ag {
+    height: 35px;
+    left: 47px;
+    position: absolute;
+    top: 20px;
+    width: 44px;
+}
+
+.pageag .text-wrapper-14ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-15ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+}
+
+.pageag .group-7ag {
+    height: 35px;
+    left: 853px;
+    position: absolute;
+    top: 20px;
+    width: 44px;
+}
+
+.pageag .group-8ag {
+    height: 35px;
+    left: 450px;
+    position: absolute;
+    top: 20px;
+    width: 44px;
+}
+
+.pageag .timeag {
+    height: 546px;
+    left: 0;
+    position: absolute;
+    top: 95px;
+    width: 62px;
+}
+
+.pageag .text-wrapper-16ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-17ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 38px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-18ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 76px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-19ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 114px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-20ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 152px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-21ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 190px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-22ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 228px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-23ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 266px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-24ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 304px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-25ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 342px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-26ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 380px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-27ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 418px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-28ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 456px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-29ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 494px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-30ag {
+    color: var(--black);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 14px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 532px;
+    white-space: nowrap;
+}
+
+.pageag .rdv-procheag {
+    height: 34px;
+    left: 40px;
+    position: absolute;
+    top: 123px;
+    width: 140px;
+}
+
+.pageag .overlap-7ag {
+    background-color: #fcb768;
+    border-radius: 4px;
+    height: 34px;
+    position: relative;
+    width: 134px;
+}
+
+.pageag .text-wrapper-31ag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+}
+
+.pageag .text-wrapper-32ag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+}
+
+.pageag .overlap-group-3ag {
+    height: 38px;
+    left: 114px;
+    position: absolute;
+    top: 0;
+    width: 20px;
+}
+
+.pageag .rectangleag {
+    background-color: var(--purple);
+    border-radius: 0px 4px 4px 0px;
+    height: 34px;
+    left: 7px;
+    position: absolute;
+    top: 0;
+    width: 13px;
+}
+
+.pageag .titre-2ag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 8px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    transform: rotate(90deg);
+}
+
+.pageag .NEXTag {
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #e8e8e8;
+    border-radius: 10px;
+    height: 20px;
+    left: 1407px;
+    position: absolute;
+    top: 93px;
+    width: 20px;
+}
+
+.pageag .vector-2ag {
+    height: 9px;
+    left: 8px;
+    position: absolute;
+    top: 5px;
+    width: 6px;
+}
+
+.pageag .BACKag {
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #e8e8e8;
+    border-radius: 10px;
+    height: 20px;
+    left: 419px;
+    position: absolute;
+    top: 93px;
+    transform: rotate(-180deg);
+    width: 20px;
+}
+
+.pageag .vector-3ag {
+    height: 9px;
+    left: 8px;
+    position: absolute;
+    top: 5px;
+    transform: rotate(180deg);
+    width: 6px;
+}
+
+.pageag .filterag {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 13px;
+    left: 1160px;
+    position: absolute;
+    top: 23px;
+}
+
+.pageag .frame-2ag {
+    align-items: center;
+    background-color: #aaaaaa1a;
+    border-radius: 68px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    padding: 3px 11px;
+    position: relative;
+}
+
+.pageag .text-wrapper-33ag {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.pageag .frame-3ag {
+    align-items: center;
+    background-color: #9e58ff1a;
+    border-radius: 68px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    padding: 3px 11px;
+    position: relative;
+}
+
+.pageag .text-wrapper-34ag {
+    color: #9e58ff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.pageag .text-wrapper-35ag {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.pageag .rectangle-2ag {
+    background-color: #c4c4c433;
+    border-radius: 22px;
+    height: 119px;
+    left: 368px;
+    position: absolute;
+    top: 69px;
+    width: 7px;
+}
+
+.pageag .btnag {
+    all: unset;
+    align-items: center;
+    background: linear-gradient(180deg, rgb(109, 192, 249) 0%, rgb(65.88, 178, 255) 100%);
+    border-radius: 50px;
+    box-sizing: border-box;
+    display: inline-flex;
+    gap: 10px;
+    height: 32px;
+    justify-content: center;
+    left: 558px;
+    padding: 13px 23px;
+    position: absolute;
+    top: 18px;
+}
+
+.pageag .text-wrapper-36ag {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -4.5px;
+    margin-top: -6.5px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.pageag .filter-2ag {
+    align-items: center;
+    border: 0.5px solid;
+    border-color: var(--grey);
+    border-radius: 3px;
+    display: inline-flex;
+    gap: 4px;
+    justify-content: center;
+    left: 317px;
+    overflow: hidden;
+    padding: 6px 4px 5px;
+    position: absolute;
+    top: 22px;
+}
+
+.pageag .vector-4ag {
+    height: 7.97px;
+    position: relative;
+    width: 14.06px;
+}
+
+.pageag .text-wrapper-37ag {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.pageag .frame-4ag {
+    align-items: center;
+    background-color: #aaaaaa33;
+    border-radius: 68px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 208px;
+    padding: 3px 11px;
+    position: absolute;
+    top: 740px;
+}
+
+.pageag .text-wrapper-38ag {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.pageag .frame-5ag {
+    align-items: center;
+    background-color: #f488881a;
+    border-radius: 68px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 48px;
+    padding: 3px 11px;
+    position: absolute;
+    top: 740px;
+}
+
+.pageag .text-wrapper-39ag {
+    color: #f48888;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}

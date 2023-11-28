@@ -1,0 +1,296 @@
+.main-footer {
+    background-color: #ffffff;
+    height: 721px;
+    position: relative;
+    width: 1511px;
+}
+
+.main-footer .aides {
+    align-items: center;
+    display: flex;
+    gap: 695px;
+    justify-content: center;
+    left: 48px;
+    position: absolute;
+    top: 46px;
+    width: 1344px;
+}
+
+.main-footer .framef {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    width: 353px;
+}
+
+.main-footer .titref {
+    color: #303030;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.main-footer .text-wrapperfo {
+    color: var(--grey);
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.main-footer .btnfo {
+    all: unset;
+    align-items: center;
+    background-color: #c989dd;
+    border-radius: 5px;
+    box-shadow: 0px 0px 14px #c989dd80;
+    box-sizing: border-box;
+    display: flex;
+    gap: 5px;
+    height: 44px;
+    justify-content: center;
+    padding: 13px 23px;
+    position: relative;
+    width: 296px;
+}
+
+.main-footer .help-circle-outline {
+    height: 23px;
+    margin-bottom: -2.5px;
+    margin-top: -2.5px;
+    position: relative;
+    width: 23px;
+}
+
+.main-footer .divfo {
+    color: #ffffff;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.main-footer .footer {
+    background-color: transparent;
+    height: 561px;
+    left: 0;
+    position: absolute;
+    top: 160px;
+    width: 1511px;
+}
+
+.main-footer .overlap-groupfo {
+    background-color: #ffffff;
+    height: 71px;
+    left: 0;
+    position: absolute;
+    top: 565px;
+    width: 1511px;
+}
+
+
+.main-footer .overlapfo {
+    background-color: #f8f8f8;
+    height: 565px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1511px;
+}
+
+.main-footer .group-2fo {
+    height: 256px;
+    left: 49px;
+    position: absolute;
+    top: 50px;
+    width: 259px;
+}
+
+.main-footer .titre-2 {
+    color: #6dc0f9;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  
+}
+.main-footer .titre-c {
+    color: #6dc0f9;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: -350px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+.main-footer .titre-b {
+    color: #6dc0f9;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: -100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+
+.main-footer .flexcontainerfo {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 224px;
+    left: 0;
+    position: absolute;
+    top: 32px;
+    width: 255px;
+}
+
+.main-footer .text {
+    margin-bottom: 0px;
+    
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: normal;
+    position: relative;
+}
+
+.main-footer .span {
+    margin-bottom: 0px;
+   
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0em;
+}
+
+.main-footer .group-3fo {
+    height: 256px;
+    left: 1064px;
+    position: absolute;
+    top: 50px;
+    width: 277px;
+}
+
+.main-footer .flexcontainer-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 224px;
+    left: 0;
+    position: absolute;
+    top: 32px;
+    width: 277px;
+}
+
+.main-footer .group-4 {
+    height: 53px;
+    left: 49px;
+    position: absolute;
+    top: 496px;
+    width: 828px;
+}
+
+.main-footer .titre-3 {
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 36px;
+}
+
+.main-footer .titre-4 {
+    color: #303030;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 226px;
+    letter-spacing: 14px;
+    line-height: normal;
+    position: absolute;
+    top: 36px;
+   
+}
+
+.main-footer .group-5 {
+    height: 306px;
+    left: 473px;
+    position: absolute;
+    top: 50px;
+    width: 466px;
+}
+
+.main-footer .flexcontainer-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 224px;
+    left: 0;
+    position: absolute;
+    top: 32px;
+    width: 187px;
+}
+
+.main-footer .flexcontainer-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 224px;
+    left: 287px;
+    position: absolute;
+    top: 32px;
+    width: 171px;
+}
+
+.main-footer .flexcontainer-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 326px;
+    width: 129px;
+}

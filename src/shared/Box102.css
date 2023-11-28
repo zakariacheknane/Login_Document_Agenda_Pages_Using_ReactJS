@@ -1,0 +1,101 @@
+
+
+.group {
+    background-color: #aaaaaa12;
+    border-radius: 10px;
+    height: 58px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 661px;
+}
+
+.group .frame3 {
+    align-items: center;
+    border-radius: 68px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 236px;
+    padding: 3px 11px;
+    position: absolute;
+    top: 17px;
+}
+
+.group .text-wrapperr {
+    color: #f48888;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.group .div-wrapperr {
+    align-items: center;
+    background-color: #6dc0f91a;
+    border-radius: 68px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 20px;
+    padding: 3px 11px;
+    position: absolute;
+    top: 17px;
+}
+
+.group .divg {
+    color: #6dc0f9;
+    font-family: "Avenir Next LT Pro-Demi", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.group .search {
+    height: 44px;
+    left: 440px;
+    position: absolute;
+    top: 7px;
+    width: 213px;
+}
+
+.group .overlap-groupe {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #aaaaaa33;
+    border-radius: 8px;
+    height: 44px;
+    position: relative;
+    width: 211px;
+}
+
+.group .text-wrapper-2 {
+    color: #aaaaaa;
+    font-family: "Avenir Next LT Pro-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+}
+
+.group .imga {
+    height: 19px;
+    left: 180px;
+    position: absolute;
+    top: 11px;
+    width: 19px;
+}
