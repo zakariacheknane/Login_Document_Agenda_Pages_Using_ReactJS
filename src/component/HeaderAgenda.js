@@ -32,10 +32,12 @@ function HeaderAgenda() {
 
 
 </div>
+<Link to="/Login">
 <div className="logo">
     <div className="text-wrapper-2">Logo</div>
     <div className="text-wrapper-2">Logo</div>
     </div>
+    </Link>
 </header>
     );
 }

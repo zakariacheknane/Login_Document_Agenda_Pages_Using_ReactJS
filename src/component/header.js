@@ -19,10 +19,12 @@ function Header() {
     <div className="help">
     <img className="help-circle-outline" alt="Help circle outline" src="help-circle-outline.svg" />
     </div>
+    <Link to="/Login">
     <div className="overlap-group">
     <div className="text-wrapper-2">Logo</div>
     <div className="text-wrapper-2">Logo</div>
     </div>
+    </Link>
     </header>
 
   );
