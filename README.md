@@ -1,8 +1,8 @@
 # LoginPage
-<img src="LoginPage.png">
+<img src="platform/LoginPage.png">
 
 # DocumentPage 
-<img src="DocumentPage.png">
+<img src="platform/DocumentPage.png">
 
 # AgendaPage
-<img src="AgendaPage.png">
+<img src="platform/AgendaPage.png">
