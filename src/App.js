@@ -12,7 +12,7 @@ function App() {
     
     <div className="App">
 
-<Router>
+<Router basename='/'>
       <Routes>
       <Route index element={<LoginPage />} />
         <Route path="/Document" element={<DocumentPage />} />
