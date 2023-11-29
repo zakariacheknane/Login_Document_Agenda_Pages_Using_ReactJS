@@ -5,8 +5,12 @@ function Header() {
   return (
     <header className="header">
     <Link to="/Document">
-    <button className="btn">
+    <button className="btn1">
     <div className="text-wrapper">Document</div>
+    </button></Link>
+    <Link to="/Agenda">
+    <button className="btn">
+    <div className="text-wrapper">Agenda</div>
     </button></Link>
     <div className="connecter">
     <div className="div">Se connecter</div>

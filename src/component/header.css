@@ -19,6 +19,20 @@
     position: absolute;
     top: 28px;
     }
+    .header .btn1 {
+        all: unset;
+        align-items: center;
+        background-color: #ffffff;
+        border-radius: 50px;
+        box-sizing: border-box;
+        display: inline-flex;
+        gap: 10px;
+        justify-content: center;
+        left: 922px;
+        padding: 13px 23px;
+        position: absolute;
+        top: 28px;
+        }
     .header .text-wrapper {
     color: var(--lightp);
     font-family: "Avenir Next LT Pro-Demi", Helvetica;
